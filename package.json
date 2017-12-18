@@ -3,6 +3,11 @@
   "description": "Boilerplate app using CARTO.js",
   "version": "1.0.0",
   "license": "GPL-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Jesus89/carto-boilerplate.git"
+  },
+  "author": "Jesús Arroyo Torrens <jarroyo@carto.com>",
   "dependencies": {},
   "devDependencies": {
     "eslint": "^4.10.0",
