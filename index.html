@@ -7,8 +7,9 @@
     <script src="dist/myapp.js"></script>
   </head>
   <body>
+    <h1>CARTO version: <span id="cartoVersion"></span></h1>
     <script>
-      alert(myapp.cartoVersion);
+      document.getElementById('cartoVersion').innerHTML = myapp.carto.version;
     </script>
   </body>
 </html>

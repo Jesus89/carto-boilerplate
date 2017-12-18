@@ -1,15 +1,15 @@
 {
-  "name": "carto-app",
-  "description": "Sample app using CARTO.js",
+  "name": "myapp",
+  "description": "Boilerplate app using CARTO.js",
   "version": "1.0.0",
   "license": "GPL-2.0",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "eslint": "^4.10.0",
+    "http-server": "^0.10.0",
     "webpack": "^3.8.1"
   },
   "scripts": {
-    "build": "webpack"
+    "start": "webpack && http-server -o"
   }
 }
