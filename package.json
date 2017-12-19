@@ -8,7 +8,9 @@
     "url": "git://github.com/Jesus89/carto-boilerplate.git"
   },
   "author": "Jesús Arroyo Torrens <jarroyo@carto.com>",
-  "dependencies": {},
+  "dependencies": {
+    "carto.js": "4.0.0-beta.4"
+  },
   "devDependencies": {
     "eslint": "^4.10.0",
     "http-server": "^0.10.0",
