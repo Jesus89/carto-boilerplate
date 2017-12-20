@@ -9,7 +9,7 @@
   },
   "author": "Jesús Arroyo Torrens <jarroyo@carto.com>",
   "dependencies": {
-    "carto.js": "4.0.0-beta.4"
+    "carto.js": "4.0.0-beta.6"
   },
   "devDependencies": {
     "eslint": "^4.10.0",
